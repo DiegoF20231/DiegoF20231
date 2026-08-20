@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Diego! 👋</h1>
 
 <p align="center">
-  <strong>Software Developer & Data Science Enthusiast</strong>
-</p>
-
-<p align="center">
   <strong>Industrial Civil Engineering student and Software Development & Data Science Enthusiast</strong>
 </p>
 
